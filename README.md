@@ -1,5 +1,5 @@
 # Jeong Gi Tae😉
-![ErrorCodeJ GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![ErrorCodeJ GitHub stats](https://github-readme-stats.vercel.app/api?ErrorCodeJ=anuraghazra&show_icons=true&theme=transparent)
 
 # 💪Skills
 ### Platforms & Languages
