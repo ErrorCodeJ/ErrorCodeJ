@@ -16,3 +16,5 @@
  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:wjdrlxo12390@gmail.com)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=errorcodeb)](https://solved.ac/errorcodeb/)
