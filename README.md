@@ -1,8 +1,5 @@
 # Jeong Gi Tae😉
-
-
-
-![ErrorCodeJ GitHub stats]([https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical](https://github.com/ErrorCodeJ))
+![ErrorCodeJ GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 # 💪Skills
 ### Platforms & Languages
